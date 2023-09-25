@@ -20,6 +20,9 @@ JUST FOR LEARNING!
 If you need a fake license, you can run `cargo run` in `license-gen` directory
 
 This fake license is not valid and just used for **testing**. Please do not use it for any other purpose.
+- **Actions -> build, download NodeInject-windows**
+- **Extract the two exes in the NodeInject-windows package into the <Target APP> installation directory**
+- **Run cmd to go to the installation directory, enter 'node_inject.exe; enter, and then enter 'license-gen.exe' enter**
 
 #### Ability
 
